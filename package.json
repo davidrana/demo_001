@@ -1,0 +1,22 @@
+{
+  "name": "node-js-crash-course",
+  "version": "1.0.0",
+  "description": "This is crase course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js", 
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "David <davidranasingh123@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
